@@ -17,6 +17,7 @@ Sebelum dilakukan visualisai, data yang diperoleh perlu diolah terlebih dahulu m
 
 ## Visualisasi
 Dari data yang diolah, bagian yang digunakan akan untuk visualisasi adalah IPM, Pengeluaran perkapita, dan populasi pada tahun 2018. Pengeluaran perkapita 2018 dan IPM 2018 akan digunakan sebagai nilai x dan y pada scatter plot. Kemudian untuk populasi 2018 digunakan sebagai ukuran untuk marker. Hasilnya seperti berikut,
+
 ![Scatter plot hasil visualisasi](https://github.com/negatively/Indonesia-IPMvsPengeluaran/blob/main/ipmVSpengeluaran2018.png)
 
 ## Kesimpulan
